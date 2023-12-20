@@ -13,5 +13,5 @@ Com o uso dos Blueprints aprendemos como é possivel fazer as funcionalidaes de 
 - Gabriela Gouveia Mota
 - Larissa Nataly da Silva Araujo 
 - Luciano Severo de Souza Junior
-- 
+- Matheus Levy Soares Rocha 
 - Thiago de Lyra Castro Silveira 
