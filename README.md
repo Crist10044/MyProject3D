@@ -11,7 +11,7 @@ Com o uso dos Blueprints aprendemos como é possivel fazer as funcionalidaes de 
 - Crislaine Arruda Silva 
 - Débora Moura Ferreira Santana 
 - Gabriela Gouveia Mota
-- Larissa Nataly da Silva Araujo 
+- Larissa Nátaly da Silva Araújo 
 - Luciano Severo de Souza Junior
 - Matheus Levy Soares Rocha 
 - Thiago de Lyra Castro Silveira 
